@@ -6,7 +6,7 @@ definition:
 
 - Currently, (observational) cosmologists are trying to detect them through different observations. Because we do not have any evidence, people simulate the impact of these strings on CMB. 
 
-- Simulation of cosmic_string evolution https://www.ligo.org/science/Publication-S5S6CosmicStrings/index.php
+- A fantastic simulation of cosmic_string evolution is available here: https://www.ligo.org/science/Publication-S5S6CosmicStrings/index.php
 
 Purpose:
 ------------
