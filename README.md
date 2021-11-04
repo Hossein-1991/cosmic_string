@@ -14,4 +14,4 @@ In this repo, I construct an practical approach towards identification of string
 
 Result:
 --------
-After extracting feature using CNN network (and pytorch!), I used three different machine learning methods. The best strategy was Random Forest with 81% accuracy. 
+After extracting feature using CNN network (and pytorch!), I used three different machine learning methods. The best strategy was Random Forest with 90% accuracy. 
