@@ -10,7 +10,7 @@ definition:
 
 Purpose:
 ------------
-In this repo, I construct an practical approach towards identification of strings in CMB patches. With larger data, the resuls will be more accurate and reliable.
+In this repo, I construct a practical approach towards identification of strings in CMB patches. With larger data, the results will be more accurate and reliable.
 
 Result:
 --------
